@@ -1,0 +1,4 @@
+principal biblioteca de analise de dados
+obter insighters
+semelhante ao excel
+
